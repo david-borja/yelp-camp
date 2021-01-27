@@ -15,7 +15,7 @@ router
   .get(catchAsync(campgrounds.index))
   .post(
     isLoggedIn,
-    upload.array("image"),
+    upload.array("image"), // here
     validateCampground,
     catchAsync(campgrounds.createCampground)
   );
@@ -28,6 +28,7 @@ router
   .put(
     isLoggedIn,
     isAuthor,
+    upload.array('image'), // here
     validateCampground,
     catchAsync(campgrounds.updateCampgrounds)
   )
