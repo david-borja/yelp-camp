@@ -16,10 +16,9 @@ const techUsed = {
   deployment: "Heroku"
 }
 ```
-## Refactors
 
 ## Views
 
 ### Web
 
-<img src="https://res.cloudinary.com/ddgzong6n/image/upload/v1618076006/YelpCamp/homepage-1920x1005_eafc7m.png" width="48%"/> <img src="https://res.cloudinary.com/ddgzong6n/image/upload/v1618076006/YelpCamp/homepage-1200x930_qnyw5t.png" width="48%"/> 
+<img src="https://res.cloudinary.com/ddgzong6n/image/upload/v1618076006/YelpCamp/homepage-1920x1005_eafc7m.png" width="100%"/>
