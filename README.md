@@ -27,7 +27,8 @@ const techUsed = {
 
 ### Web
 
-<img src="https://res.cloudinary.com/ddgzong6n/image/upload/v1618076006/YelpCamp/homepage-1920x1005_eafc7m.png" width="48%"/> <img src="https://res.cloudinary.com/ddgzong6n/image/upload/v1618150421/YelpCamp/campgrounds-index_yllgvf.png" width="48%"/> 
-<img src="https://res.cloudinary.com/ddgzong6n/image/upload/v1618150421/YelpCamp/campgrounds-view_k8nezv.png" width="48%"/> <img src="https://res.cloudinary.com/ddgzong6n/image/upload/v1618150861/YelpCamp/newcampground-form-validated_hrturf.png" width="48%"/> 
+<img src="https://res.cloudinary.com/ddgzong6n/image/upload/v1618076006/YelpCamp/homepage-1920x1005_eafc7m.png" width="48%"/> <img src="https://res.cloudinary.com/ddgzong6n/image/upload/v1618150861/YelpCamp/newcampground-form-validated_hrturf.png" width="48%"/> 
+
+<img src="https://res.cloudinary.com/ddgzong6n/image/upload/v1618150421/YelpCamp/campgrounds-index_yllgvf.png" width="48%"/> <img src="https://res.cloudinary.com/ddgzong6n/image/upload/v1618150421/YelpCamp/campgrounds-view_k8nezv.png" width="48%"/>  
 
 Screenshots taken from local server
